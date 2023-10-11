@@ -122,6 +122,10 @@ main .blue-box ul li:nth-child(odd){
 */
 
 /* 16. enter your code here */
+main .blue-box ul li:last-child {
+  color: #f5f5f5;
+  background-color: #1d3557ff;
+}
 
 /*
  * DONT MODIFY THE CODE
